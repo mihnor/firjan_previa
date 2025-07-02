@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "original_filename": "FIRJAN - REUNIAO - ANDRE, CLELIO E MARCELO - PARTE 2 - Audio-2025-06-18-111536 AM.m4a",
+    "processed_at": "2025-07-02T14:01:47.960762",
+    "file_size_mb": 15.154867172241211,
+    "processing_duration_seconds": 65.31692004203796,
+    "transcription_method": "AssemblyAI",
+    "briefing_method": "MEMOrIA XR Dynamic Reporting Agent",
+    "briefing_success": true,
+    "reporting_level": 1,
+    "documents_generated": [
+      "briefing_principal"
+    ],
+    "memoria_xr_version": "2.0.0",
+    "sistema_relatorios_dinamicos": true
+  },
+  "transcription_summary": {
+    "word_count": 1872,
+    "character_count": 10301,
+    "confidence": 0.75,
+    "duration_seconds": 29.0,
+    "speakers_detected": 3,
+    "utterances_processed": 104,
+    "api_provider": "assemblyai",
+    "language_detected": "pt"
+  },
+  "diarization_summary": {
+    "speakers_count": 3,
+    "speaker_mapping": {
+      "A": "Locutor A",
+      "B": "Locutor B",
+      "C": "Locutor C"
+    },
+    "utterances_count": 104,
+    "timeline_entries": 104
+  },
+  "briefing": {
+    "method": "MEMOrIA XR Dynamic Reporting Agent",
+    "framework": "MEMOrIA XR Framework FCC™",
+    "duration_seconds": 32.141050815582275,
+    "success": true,
+    "quality_score": 0.9,
+    "reporting_level": 1,
+    "documents_generated": [
+      "briefing_principal"
+    ],
+    "files_created": [
+      "briefing_principal"
+    ]
+  },
+  "files_generated": {
+    "total_files": 3,
+    "file_paths": {
+      "briefing": "transcriptions/20250702/Discussão de Projeto e Próximos Passos (FIRJAN)/FIRJAN-REUNIAO-ANDRECLELIOEMARCELO-PARTE2-Audio-2025-06-18-111536AM_briefing.md",
+      "transcript": "transcriptions/20250702/FIRJAN-REUNIAO-ANDRECLELIOEMARCELO-PARTE2-Audio-2025-06-18-111536AM/FIRJAN-REUNIAO-ANDRECLELIOEMARCELO-PARTE2-Audio-2025-06-18-111536AM_transcript.txt",
+      "readme": "transcriptions/20250702/Discussão de Projeto e Próximos Passos (FIRJAN)/README.md"
+    }
+  }
+}

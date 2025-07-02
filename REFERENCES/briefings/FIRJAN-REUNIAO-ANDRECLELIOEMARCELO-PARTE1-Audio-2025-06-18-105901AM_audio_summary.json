@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "original_filename": "FIRJAN - REUNIAO - ANDRE, CLELIO E MARCELO - PARTE 1 - Audio-2025-06-18-105901 AM_audio.mp3",
+    "processed_at": "2025-07-02T14:00:39.765652",
+    "file_size_mb": 45.38863182067871,
+    "processing_duration_seconds": 140.25734281539917,
+    "transcription_method": "AssemblyAI",
+    "briefing_method": "MEMOrIA XR Dynamic Reporting Agent",
+    "briefing_success": true,
+    "reporting_level": 2,
+    "documents_generated": [
+      "briefing_principal",
+      "mapa_conhecimento"
+    ],
+    "memoria_xr_version": "2.0.0",
+    "sistema_relatorios_dinamicos": true
+  },
+  "transcription_summary": {
+    "word_count": 6546,
+    "character_count": 35485,
+    "confidence": 0.744,
+    "duration_seconds": 84.9,
+    "speakers_detected": 4,
+    "utterances_processed": 326,
+    "api_provider": "assemblyai",
+    "language_detected": "pt"
+  },
+  "diarization_summary": {
+    "speakers_count": 4,
+    "speaker_mapping": {
+      "A": "Locutor A",
+      "B": "Locutor B",
+      "C": "Locutor C",
+      "D": "Locutor D"
+    },
+    "utterances_count": 326,
+    "timeline_entries": 326
+  },
+  "briefing": {
+    "method": "MEMOrIA XR Dynamic Reporting Agent",
+    "framework": "MEMOrIA XR Framework FCC™",
+    "duration_seconds": 55.37541699409485,
+    "success": true,
+    "quality_score": 0.9,
+    "reporting_level": 2,
+    "documents_generated": [
+      "briefing_principal",
+      "mapa_conhecimento"
+    ],
+    "files_created": [
+      "briefing_principal",
+      "mapa_conhecimento"
+    ]
+  },
+  "files_generated": {
+    "total_files": 4,
+    "file_paths": {
+      "briefing": "transcriptions/20250702/Planejamento Evento Firjan e Alinhamentos Instituc/FIRJAN-REUNIAO-ANDRECLELIOEMARCELO-PARTE1-Audio-2025-06-18-105901AM_audio_briefing.md",
+      "transcript": "transcriptions/20250702/FIRJAN-REUNIAO-ANDRECLELIOEMARCELO-PARTE1-Audio-2025-06-18-105901AM_audio/FIRJAN-REUNIAO-ANDRECLELIOEMARCELO-PARTE1-Audio-2025-06-18-105901AM_audio_transcript.txt",
+      "knowledge_map": "transcriptions/20250702/Planejamento Evento Firjan e Alinhamentos Instituc/FIRJAN-REUNIAO-ANDRECLELIOEMARCELO-PARTE1-Audio-2025-06-18-105901AM_audio_knowledge_map.md",
+      "readme": "transcriptions/20250702/Planejamento Evento Firjan e Alinhamentos Instituc/README.md"
+    }
+  }
+}

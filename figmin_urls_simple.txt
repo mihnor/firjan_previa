@@ -1,72 +1,299 @@
-FIRJAN XR - URLs para Figmin XR
+FIRJAN XR - URLs para Figmin XR (Copy & Paste)
 ==================================================
 
-NOME: BOARD_01_PERGUNTA_BOARD_01_pergunta_de_onde_vem
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_01_PERGUNTA/BOARD_01_pergunta_de_onde_vem.png
+NOME: glbs_prensa_de_guttenberg
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/glbs/prensa_de_guttenberg.glb
 
-NOME: BOARD_01_PERGUNTA_BOARD_01_pergunta_interrogacoes
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_01_PERGUNTA/BOARD_01_pergunta_interrogacoes.png
+NOME: glbs_firjan_cenas_otimizado
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/glbs/firjan-cenas-otimizado.glb
 
-NOME: BOARD_02_GUTENBERG_BOARD_02_gutenberg_extra_001
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_extra_001.png
+NOME: MODEL_prensa_de_guttenberg
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/prensa_de_guttenberg.glb
 
-NOME: BOARD_02_GUTENBERG_BOARD_02_gutenberg_historical_press
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_historical_press.png
+NOME: MODEL_FIRJAN_XR_All_Spheres_360
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_All_Spheres_360.glb
 
-NOME: BOARD_02_GUTENBERG_BOARD_02_gutenberg_invencao_contexto
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_invencao_contexto.png
+NOME: MODEL_FIRJAN_XR_Collections_5_8
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Collections_5-8.glb
 
-NOME: BOARD_02_GUTENBERG_BOARD_02_gutenberg_lettering
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_lettering.png
+NOME: MODEL_FIRJAN_XR_Collection_8
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Collection_8.glb
 
-NOME: BOARD_02_GUTENBERG_BOARD_02_gutenberg_printing_press
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_printing_press.png
+NOME: MODEL_FIRJAN_XR_Sphere_360_02
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Sphere_360_02.glb
 
-NOME: BOARD_03_TIPOGRAFIA_BOARD_03_tipografia_curso
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_03_TIPOGRAFIA/BOARD_03_tipografia_curso.png
+NOME: MODEL_FIRJAN_XR_Collection_5
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Collection_5.glb
 
-NOME: BOARD_03_TIPOGRAFIA_BOARD_03_tipografia_extra_001
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_03_TIPOGRAFIA/BOARD_03_tipografia_extra_001.png
+NOME: MODEL_FIRJAN_XR_Collection_4
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Collection_4.glb
 
-NOME: BOARD_03_TIPOGRAFIA_BOARD_03_tipografia_industria_grafica
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_03_TIPOGRAFIA/BOARD_03_tipografia_industria_grafica.png
+NOME: MODEL_FIRJAN_XR_Sphere_360_03
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Sphere_360_03.glb
 
-NOME: BOARD_04_ESCRITORES_BOARD_04_escritores_dicionario_industria
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_dicionario_industria.png
+NOME: MODEL_FIRJAN_XR_Sphere_360_01
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Sphere_360_01.glb
 
-NOME: BOARD_04_ESCRITORES_BOARD_04_escritores_homem_maquina_escrever
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_homem_maquina_escrever.png
+NOME: MODEL_FIRJAN_XR_Collection_6
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Collection_6.glb
 
-NOME: BOARD_04_ESCRITORES_BOARD_04_escritores_mulher_computador
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_mulher_computador.png
+NOME: MODEL_FIRJAN_XR_Collection_7
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Collection_7.glb
 
-NOME: BOARD_04_ESCRITORES_BOARD_04_escritores_pexels_scene
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_pexels_scene.png
+NOME: MODEL_FIRJAN_XR_Sphere_360_00
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Sphere_360_00.glb
 
-NOME: BOARD_04_ESCRITORES_BOARD_04_escritores_profile_scene
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_profile_scene.png
+NOME: MODEL_FIRJAN_XR_Collection_3
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Collection_3.glb
 
-NOME: BOARD_05_PARQUES_BOARD_05_parques_csm_scene
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_05_PARQUES/BOARD_05_parques_csm_scene.png
+NOME: MODEL_FIRJAN_XR_Collection_2
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Collection_2.glb
 
-NOME: BOARD_05_PARQUES_BOARD_05_parques_desafios_oportunidades
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_05_PARQUES/BOARD_05_parques_desafios_oportunidades.png
+NOME: MODEL_FIRJAN_XR_Collections_1_4
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Collections_1-4.glb
 
-NOME: BOARD_05_PARQUES_BOARD_05_parques_print_publishing
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_05_PARQUES/BOARD_05_parques_print_publishing.png
+NOME: MODEL_Modern_Print_Line_In_0704154444_texture
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/Modern_Print_Line_In_0704154444_texture.glb
 
-NOME: BOARD_06_CENOGRAFIA_BOARD_06_cenografia_visual_electric
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_06_CENOGRAFIA/BOARD_06_cenografia_visual_electric.png
+NOME: MODEL_FIRJAN_XR_Collection_1
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Collection_1.glb
 
-NOME: BOARD_09_EXPERIENCIA_BOARD_09_experiencia_diy_scene
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_09_EXPERIENCIA/BOARD_09_experiencia_diy_scene.png
+NOME: SPHERE360_out_3
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/360%20images/out-3.png
+
+NOME: SPHERE360_out_2
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/360%20images/out-2.png
+
+NOME: SPHERE360_out_0
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/360%20images/out-0.png
+
+NOME: SPHERE360_out_1
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/360%20images/out-1.png
+
+NOME: ._firjan_logo_small
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/firjan_logo_small.png
+
+NOME: LETTERINGS_NUMERADOS_03_evolucao_da_producao_grafica
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/03_evolucao_da_producao_grafica.png
+
+NOME: LETTERINGS_NUMERADOS_04_o_escritor
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/04_o_escritor.png
+
+NOME: LETTERINGS_NUMERADOS_01_let_interrogacoes
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/01_let_interrogacoes.png
+
+NOME: LETTERINGS_NUMERADOS_12_let_casa_firjan
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/12_let_casa_firjan.png
+
+NOME: LETTERINGS_NUMERADOS_09_linha_do_tempo
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/09_linha_do_tempo.png
+
+NOME: LETTERINGS_NUMERADOS_06_cenografia_criativa
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/06_cenografia_criativa.png
+
+NOME: LETTERINGS_NUMERADOS_02_let_gutenberg
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/02_let_gutenberg.png
+
+NOME: LETTERINGS_NUMERADOS_06_experiencia_imersiva
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/06_experiencia_imersiva.png
+
+NOME: LETTERINGS_NUMERADOS_05_parques_graficos
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/05_parques_graficos.png
+
+NOME: LETTERINGS_NUMERADOS_02_gutenberg_comecou
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/02_gutenberg_comecou.png
+
+NOME: LETTERINGS_NUMERADOS_01_let_de_onde__vem
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/01_let_de_onde-_vem.png
+
+NOME: LETTERINGS_NUMERADOS_01_let_interrogacao
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/01_let_interrogacao.png
 
 NOME: BOARD_10_VISUAL_ELECTRIC_BOARD_10_visual_electric_main
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_10_VISUAL_ELECTRIC/BOARD_10_visual_electric_main.png
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_10_VISUAL_ELECTRIC/BOARD_10_visual_electric_main.png
+
+NOME: BOARD_09_EXPERIENCIA_BOARD_09_experiencia_diy_scene
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_09_EXPERIENCIA/BOARD_09_experiencia_diy_scene.png
+
+NOME: BOARD_09_EXPERIENCIA_09_linha_do_tempo
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_09_EXPERIENCIA/09_linha_do_tempo.png
 
 NOME: BOARD_11_VISUAL_ELECTRIC_ALT_BOARD_11_visual_electric_alt
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_11_VISUAL_ELECTRIC_ALT/BOARD_11_visual_electric_alt.png
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_11_VISUAL_ELECTRIC_ALT/BOARD_11_visual_electric_alt.png
+
+NOME: BOARD_02_GUTENBERG_BOARD_02_gutenberg_historical_press
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_historical_press.png
+
+NOME: BOARD_02_GUTENBERG_BOARD_02_gutenberg_extra_001
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_extra_001.png
+
+NOME: BOARD_02_GUTENBERG_BOARD_02_gutenberg_lettering
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_lettering.png
+
+NOME: BOARD_02_GUTENBERG_BOARD_02_gutenberg_invencao_contexto
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_invencao_contexto.png
+
+NOME: BOARD_02_GUTENBERG_BOARD_02_gutenberg_printing_press
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_printing_press.png
+
+NOME: BOARD_02_GUTENBERG_02_let_gutenberg
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_02_GUTENBERG/02_let_gutenberg.png
+
+NOME: BOARD_02_GUTENBERG_02_gutenberg_comecou
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_02_GUTENBERG/02_gutenberg_comecou.png
+
+NOME: recortados_Clipboard___2025_07_04_09.00.54
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/recortados/Clipboard%20-%202025-07-04%2009.00.54.png
+
+NOME: recortados_Clipboard___2025_07_04_08.58.07
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/recortados/Clipboard%20-%202025-07-04%2008.58.07.png
+
+NOME: recortados_Clipboard___2025_07_04_08.58.13
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/recortados/Clipboard%20-%202025-07-04%2008.58.13.png
+
+NOME: recortados_06_experiencia_imersiva_2
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/recortados/06_experiencia_imersiva%202.png
+
+NOME: recortados_BOARD_12_casa_firjan_lettering
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/recortados/BOARD_12_casa_firjan_lettering.png
+
+NOME: recortados_06_cenografia_criativa
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/recortados/06_cenografia_criativa.png
+
+NOME: recortados_06_experiencia_imersiva
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/recortados/06_experiencia_imersiva.png
+
+NOME: BOARD_12_CASA_FIRJAN_12_let_casa_firjan
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_12_CASA_FIRJAN/12_let_casa_firjan.png
 
 NOME: BOARD_12_CASA_FIRJAN_BOARD_12_casa_firjan_lettering
-URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_12_CASA_FIRJAN/BOARD_12_casa_firjan_lettering.png
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_12_CASA_FIRJAN/BOARD_12_casa_firjan_lettering.png
 
+NOME: BOARD_05_PARQUES_BOARD_05_parques_print_publishing
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_05_PARQUES/BOARD_05_parques_print_publishing.png
+
+NOME: BOARD_05_PARQUES_BOARD_05_parques_desafios_oportunidades
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_05_PARQUES/BOARD_05_parques_desafios_oportunidades.png
+
+NOME: BOARD_05_PARQUES_BOARD_05_parques_csm_scene
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_05_PARQUES/BOARD_05_parques_csm_scene.png
+
+NOME: BOARD_05_PARQUES_05_parques_graficos
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_05_PARQUES/05_parques_graficos.png
+
+NOME: BOARD_06_CENOGRAFIA_BOARD_06_cenografia_visual_electric
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_06_CENOGRAFIA/BOARD_06_cenografia_visual_electric.png
+
+NOME: BOARD_06_CENOGRAFIA_06_cenografia_criativa
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_06_CENOGRAFIA/06_cenografia_criativa.png
+
+NOME: BOARD_06_CENOGRAFIA_06_experiencia_imersiva
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_06_CENOGRAFIA/06_experiencia_imersiva.png
+
+NOME: BOARD_01_PERGUNTA_BOARD_01_pergunta_interrogacoes
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_01_PERGUNTA/BOARD_01_pergunta_interrogacoes.png
+
+NOME: BOARD_01_PERGUNTA_01_let_interrogacoes
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_01_PERGUNTA/01_let_interrogacoes.png
+
+NOME: BOARD_01_PERGUNTA_BOARD_01_pergunta_de_onde_vem
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_01_PERGUNTA/BOARD_01_pergunta_de_onde_vem.png
+
+NOME: BOARD_01_PERGUNTA_01_let_de_onde__vem
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_01_PERGUNTA/01_let_de_onde-_vem.png
+
+NOME: BOARD_01_PERGUNTA_01_let_interrogacao
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_01_PERGUNTA/01_let_interrogacao.png
+
+NOME: BOARD_03_TIPOGRAFIA_03_evolucao_da_producao_grafica
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_03_TIPOGRAFIA/03_evolucao_da_producao_grafica.png
+
+NOME: BOARD_03_TIPOGRAFIA_BOARD_03_tipografia_extra_001
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_03_TIPOGRAFIA/BOARD_03_tipografia_extra_001.png
+
+NOME: BOARD_03_TIPOGRAFIA_BOARD_03_tipografia_industria_grafica
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_03_TIPOGRAFIA/BOARD_03_tipografia_industria_grafica.png
+
+NOME: BOARD_03_TIPOGRAFIA_BOARD_03_tipografia_curso
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_03_TIPOGRAFIA/BOARD_03_tipografia_curso.png
+
+NOME: BOARD_04_ESCRITORES_BOARD_04_escritores_mulher_computador
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_mulher_computador.png
+
+NOME: BOARD_04_ESCRITORES_04_o_escritor
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_04_ESCRITORES/04_o_escritor.png
+
+NOME: BOARD_04_ESCRITORES_BOARD_04_escritores_profile_scene
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_profile_scene.png
+
+NOME: BOARD_04_ESCRITORES_BOARD_04_escritores_homem_maquina_escrever
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_homem_maquina_escrever.png
+
+NOME: BOARD_04_ESCRITORES_BOARD_04_escritores_pexels_scene
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_pexels_scene.png
+
+NOME: BOARD_04_ESCRITORES_BOARD_04_escritores_dicionario_industria
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_dicionario_industria.png
+
+NOME: AUDIO_ElevenLabs_2025_07_04T10_50_20__s50_v3
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/AUDIO/VOICEOVER/ElevenLabs_2025-07-04T10_50_20__s50_v3.mp3
+
+NOME: AUDIO_ElevenLabs_2025_07_04T10_53_15_James___Husky_and_Engaging_pvc_sp100_s50_sb50_se10_b_e2
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/AUDIO/VOICEOVER/ElevenLabs_2025-07-04T10_53_15_James%20-%20Husky%20%26%20Engaging_pvc_sp100_s50_sb50_se10_b_e2.mp3
+
+NOME: AUDIO_FIRJAN_tour_virtual_guta_voiceover
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/AUDIO/VOICEOVER/FIRJAN_tour_virtual_guta_voiceover.mp3
+
+NOME: ._FIRJAN_Guta_Voiceover_YT
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/FIRJAN_Guta_Voiceover_YT.mp4
+
+NOME: VIDEO_Generated_File_July_04_2025___8_08AM_1
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/videos/Generated%20File%20July%2004%2C%202025%20-%208_08AM%20%281%29.mp4
+
+NOME: VIDEO_Vídeo_Guttenberg_e_a_Bíblia
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/videos/Vi%CC%81deo_Guttenberg_e_a_Bi%CC%81blia.mp4
+
+NOME: VIDEO_Generated_File_July_04_2025___8_08AM
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/videos/Generated%20File%20July%2004%2C%202025%20-%208_08AM.mp4
+
+NOME: VIDEO_Video_Ready_Printing_Press
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/videos/Video_Ready_Printing_Press.mp4
+
+NOME: VIDEO_ElevenLabs_2025_07_04T10_50_20__s50_v3
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/AUDIO/VOICEOVER/videos/ElevenLabs_2025-07-04T10_50_20__s50_v3.mp4
+
+NOME: VIDEO_ElevenLabs_2025_07_04T10_53_15_James___Husky_and_Engaging_pvc_sp100_s50_sb50_se10_b_e2
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/AUDIO/VOICEOVER/videos/ElevenLabs_2025-07-04T10_53_15_James%20-%20Husky%20%26%20Engaging_pvc_sp100_s50_sb50_se10_b_e2.mp4
+
+NOME: VIDEO_FIRJAN_tour_virtual_guta_voiceover
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/AUDIO/VOICEOVER/videos/FIRJAN_tour_virtual_guta_voiceover.mp4
+
+NOME: BOARD_10_VISUAL_ELECTRIC_BOARD_10_VISUAL_ELECTRIC_VIDEO
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_10_VISUAL_ELECTRIC/BOARD_10_VISUAL_ELECTRIC_VIDEO.mp4
+
+NOME: BOARD_09_EXPERIENCIA_BOARD_09_EXPERIENCIA_VIDEO
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_09_EXPERIENCIA/BOARD_09_EXPERIENCIA_VIDEO.mp4
+
+NOME: BOARD_11_VISUAL_ELECTRIC_ALT_BOARD_11_VISUAL_ELECTRIC_ALT_VIDEO
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_11_VISUAL_ELECTRIC_ALT/BOARD_11_VISUAL_ELECTRIC_ALT_VIDEO.mp4
+
+NOME: BOARD_02_GUTENBERG_BOARD_02_GUTENBERG_VIDEO
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_02_GUTENBERG/BOARD_02_GUTENBERG_VIDEO.mp4
+
+NOME: BOARD_12_CASA_FIRJAN_BOARD_12_CASA_FIRJAN_VIDEO
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_12_CASA_FIRJAN/BOARD_12_CASA_FIRJAN_VIDEO.mp4
+
+NOME: BOARD_05_PARQUES_BOARD_05_PARQUES_VIDEO
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_05_PARQUES/BOARD_05_PARQUES_VIDEO.mp4
+
+NOME: BOARD_06_CENOGRAFIA_BOARD_06_CENOGRAFIA_VIDEO
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_06_CENOGRAFIA/BOARD_06_CENOGRAFIA_VIDEO.mp4
+
+NOME: BOARD_01_PERGUNTA_BOARD_01_PERGUNTA_VIDEO
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_01_PERGUNTA/BOARD_01_PERGUNTA_VIDEO.mp4
+
+NOME: BOARD_03_TIPOGRAFIA_BOARD_03_TIPOGRAFIA_VIDEO
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_03_TIPOGRAFIA/BOARD_03_TIPOGRAFIA_VIDEO.mp4
+
+NOME: BOARD_04_ESCRITORES_BOARD_04_ESCRITORES_VIDEO
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_04_ESCRITORES/BOARD_04_ESCRITORES_VIDEO.mp4

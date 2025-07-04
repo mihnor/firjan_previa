@@ -1,0 +1,755 @@
+{
+  "images": [
+    {
+      "name": "firjan_logo_small.png",
+      "folder": ".",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/firjan_logo_small.png",
+      "figmin_name": "._firjan_logo_small",
+      "file_path": "firjan_logo_small.png"
+    },
+    {
+      "name": "03_evolucao_da_producao_grafica.png",
+      "folder": "LETTERINGS NUMERADOS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/03_evolucao_da_producao_grafica.png",
+      "figmin_name": "LETTERINGS_NUMERADOS_03_evolucao_da_producao_grafica",
+      "file_path": "LETTERINGS NUMERADOS/03_evolucao_da_producao_grafica.png"
+    },
+    {
+      "name": "04_o_escritor.png",
+      "folder": "LETTERINGS NUMERADOS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/04_o_escritor.png",
+      "figmin_name": "LETTERINGS_NUMERADOS_04_o_escritor",
+      "file_path": "LETTERINGS NUMERADOS/04_o_escritor.png"
+    },
+    {
+      "name": "01_let_interrogacoes.png",
+      "folder": "LETTERINGS NUMERADOS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/01_let_interrogacoes.png",
+      "figmin_name": "LETTERINGS_NUMERADOS_01_let_interrogacoes",
+      "file_path": "LETTERINGS NUMERADOS/01_let_interrogacoes.png"
+    },
+    {
+      "name": "12_let_casa_firjan.png",
+      "folder": "LETTERINGS NUMERADOS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/12_let_casa_firjan.png",
+      "figmin_name": "LETTERINGS_NUMERADOS_12_let_casa_firjan",
+      "file_path": "LETTERINGS NUMERADOS/12_let_casa_firjan.png"
+    },
+    {
+      "name": "09_linha_do_tempo.png",
+      "folder": "LETTERINGS NUMERADOS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/09_linha_do_tempo.png",
+      "figmin_name": "LETTERINGS_NUMERADOS_09_linha_do_tempo",
+      "file_path": "LETTERINGS NUMERADOS/09_linha_do_tempo.png"
+    },
+    {
+      "name": "06_cenografia_criativa.png",
+      "folder": "LETTERINGS NUMERADOS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/06_cenografia_criativa.png",
+      "figmin_name": "LETTERINGS_NUMERADOS_06_cenografia_criativa",
+      "file_path": "LETTERINGS NUMERADOS/06_cenografia_criativa.png"
+    },
+    {
+      "name": "02_let_gutenberg.png",
+      "folder": "LETTERINGS NUMERADOS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/02_let_gutenberg.png",
+      "figmin_name": "LETTERINGS_NUMERADOS_02_let_gutenberg",
+      "file_path": "LETTERINGS NUMERADOS/02_let_gutenberg.png"
+    },
+    {
+      "name": "06_experiencia_imersiva.png",
+      "folder": "LETTERINGS NUMERADOS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/06_experiencia_imersiva.png",
+      "figmin_name": "LETTERINGS_NUMERADOS_06_experiencia_imersiva",
+      "file_path": "LETTERINGS NUMERADOS/06_experiencia_imersiva.png"
+    },
+    {
+      "name": "05_parques_graficos.png",
+      "folder": "LETTERINGS NUMERADOS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/05_parques_graficos.png",
+      "figmin_name": "LETTERINGS_NUMERADOS_05_parques_graficos",
+      "file_path": "LETTERINGS NUMERADOS/05_parques_graficos.png"
+    },
+    {
+      "name": "02_gutenberg_comecou.png",
+      "folder": "LETTERINGS NUMERADOS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/02_gutenberg_comecou.png",
+      "figmin_name": "LETTERINGS_NUMERADOS_02_gutenberg_comecou",
+      "file_path": "LETTERINGS NUMERADOS/02_gutenberg_comecou.png"
+    },
+    {
+      "name": "01_let_de_onde-_vem.png",
+      "folder": "LETTERINGS NUMERADOS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/01_let_de_onde-_vem.png",
+      "figmin_name": "LETTERINGS_NUMERADOS_01_let_de_onde__vem",
+      "file_path": "LETTERINGS NUMERADOS/01_let_de_onde-_vem.png"
+    },
+    {
+      "name": "01_let_interrogacao.png",
+      "folder": "LETTERINGS NUMERADOS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/LETTERINGS%20NUMERADOS/01_let_interrogacao.png",
+      "figmin_name": "LETTERINGS_NUMERADOS_01_let_interrogacao",
+      "file_path": "LETTERINGS NUMERADOS/01_let_interrogacao.png"
+    },
+    {
+      "name": "BOARD_10_visual_electric_main.png",
+      "folder": "BOARD_10_VISUAL_ELECTRIC",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_10_VISUAL_ELECTRIC/BOARD_10_visual_electric_main.png",
+      "figmin_name": "BOARD_10_VISUAL_ELECTRIC_BOARD_10_visual_electric_main",
+      "file_path": "BOARDS/BOARD_10_VISUAL_ELECTRIC/BOARD_10_visual_electric_main.png"
+    },
+    {
+      "name": "BOARD_09_experiencia_diy_scene.png",
+      "folder": "BOARD_09_EXPERIENCIA",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_09_EXPERIENCIA/BOARD_09_experiencia_diy_scene.png",
+      "figmin_name": "BOARD_09_EXPERIENCIA_BOARD_09_experiencia_diy_scene",
+      "file_path": "BOARDS/BOARD_09_EXPERIENCIA/BOARD_09_experiencia_diy_scene.png"
+    },
+    {
+      "name": "09_linha_do_tempo.png",
+      "folder": "BOARD_09_EXPERIENCIA",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_09_EXPERIENCIA/09_linha_do_tempo.png",
+      "figmin_name": "BOARD_09_EXPERIENCIA_09_linha_do_tempo",
+      "file_path": "BOARDS/BOARD_09_EXPERIENCIA/09_linha_do_tempo.png"
+    },
+    {
+      "name": "BOARD_11_visual_electric_alt.png",
+      "folder": "BOARD_11_VISUAL_ELECTRIC_ALT",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_11_VISUAL_ELECTRIC_ALT/BOARD_11_visual_electric_alt.png",
+      "figmin_name": "BOARD_11_VISUAL_ELECTRIC_ALT_BOARD_11_visual_electric_alt",
+      "file_path": "BOARDS/BOARD_11_VISUAL_ELECTRIC_ALT/BOARD_11_visual_electric_alt.png"
+    },
+    {
+      "name": "BOARD_02_gutenberg_historical_press.png",
+      "folder": "BOARD_02_GUTENBERG",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_historical_press.png",
+      "figmin_name": "BOARD_02_GUTENBERG_BOARD_02_gutenberg_historical_press",
+      "file_path": "BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_historical_press.png"
+    },
+    {
+      "name": "BOARD_02_gutenberg_extra_001.png",
+      "folder": "BOARD_02_GUTENBERG",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_extra_001.png",
+      "figmin_name": "BOARD_02_GUTENBERG_BOARD_02_gutenberg_extra_001",
+      "file_path": "BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_extra_001.png"
+    },
+    {
+      "name": "BOARD_02_gutenberg_lettering.png",
+      "folder": "BOARD_02_GUTENBERG",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_lettering.png",
+      "figmin_name": "BOARD_02_GUTENBERG_BOARD_02_gutenberg_lettering",
+      "file_path": "BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_lettering.png"
+    },
+    {
+      "name": "BOARD_02_gutenberg_invencao_contexto.png",
+      "folder": "BOARD_02_GUTENBERG",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_invencao_contexto.png",
+      "figmin_name": "BOARD_02_GUTENBERG_BOARD_02_gutenberg_invencao_contexto",
+      "file_path": "BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_invencao_contexto.png"
+    },
+    {
+      "name": "BOARD_02_gutenberg_printing_press.png",
+      "folder": "BOARD_02_GUTENBERG",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_printing_press.png",
+      "figmin_name": "BOARD_02_GUTENBERG_BOARD_02_gutenberg_printing_press",
+      "file_path": "BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_printing_press.png"
+    },
+    {
+      "name": "02_let_gutenberg.png",
+      "folder": "BOARD_02_GUTENBERG",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_02_GUTENBERG/02_let_gutenberg.png",
+      "figmin_name": "BOARD_02_GUTENBERG_02_let_gutenberg",
+      "file_path": "BOARDS/BOARD_02_GUTENBERG/02_let_gutenberg.png"
+    },
+    {
+      "name": "02_gutenberg_comecou.png",
+      "folder": "BOARD_02_GUTENBERG",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_02_GUTENBERG/02_gutenberg_comecou.png",
+      "figmin_name": "BOARD_02_GUTENBERG_02_gutenberg_comecou",
+      "file_path": "BOARDS/BOARD_02_GUTENBERG/02_gutenberg_comecou.png"
+    },
+    {
+      "name": "Clipboard - 2025-07-04 09.00.54.png",
+      "folder": "recortados",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/recortados/Clipboard%20-%202025-07-04%2009.00.54.png",
+      "figmin_name": "recortados_Clipboard___2025_07_04_09.00.54",
+      "file_path": "BOARDS/recortados/Clipboard - 2025-07-04 09.00.54.png"
+    },
+    {
+      "name": "Clipboard - 2025-07-04 08.58.07.png",
+      "folder": "recortados",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/recortados/Clipboard%20-%202025-07-04%2008.58.07.png",
+      "figmin_name": "recortados_Clipboard___2025_07_04_08.58.07",
+      "file_path": "BOARDS/recortados/Clipboard - 2025-07-04 08.58.07.png"
+    },
+    {
+      "name": "Clipboard - 2025-07-04 08.58.13.png",
+      "folder": "recortados",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/recortados/Clipboard%20-%202025-07-04%2008.58.13.png",
+      "figmin_name": "recortados_Clipboard___2025_07_04_08.58.13",
+      "file_path": "BOARDS/recortados/Clipboard - 2025-07-04 08.58.13.png"
+    },
+    {
+      "name": "06_experiencia_imersiva 2.png",
+      "folder": "recortados",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/recortados/06_experiencia_imersiva%202.png",
+      "figmin_name": "recortados_06_experiencia_imersiva_2",
+      "file_path": "BOARDS/recortados/06_experiencia_imersiva 2.png"
+    },
+    {
+      "name": "BOARD_12_casa_firjan_lettering.png",
+      "folder": "recortados",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/recortados/BOARD_12_casa_firjan_lettering.png",
+      "figmin_name": "recortados_BOARD_12_casa_firjan_lettering",
+      "file_path": "BOARDS/recortados/BOARD_12_casa_firjan_lettering.png"
+    },
+    {
+      "name": "06_cenografia_criativa.png",
+      "folder": "recortados",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/recortados/06_cenografia_criativa.png",
+      "figmin_name": "recortados_06_cenografia_criativa",
+      "file_path": "BOARDS/recortados/06_cenografia_criativa.png"
+    },
+    {
+      "name": "06_experiencia_imersiva.png",
+      "folder": "recortados",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/recortados/06_experiencia_imersiva.png",
+      "figmin_name": "recortados_06_experiencia_imersiva",
+      "file_path": "BOARDS/recortados/06_experiencia_imersiva.png"
+    },
+    {
+      "name": "12_let_casa_firjan.png",
+      "folder": "BOARD_12_CASA_FIRJAN",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_12_CASA_FIRJAN/12_let_casa_firjan.png",
+      "figmin_name": "BOARD_12_CASA_FIRJAN_12_let_casa_firjan",
+      "file_path": "BOARDS/BOARD_12_CASA_FIRJAN/12_let_casa_firjan.png"
+    },
+    {
+      "name": "BOARD_12_casa_firjan_lettering.png",
+      "folder": "BOARD_12_CASA_FIRJAN",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_12_CASA_FIRJAN/BOARD_12_casa_firjan_lettering.png",
+      "figmin_name": "BOARD_12_CASA_FIRJAN_BOARD_12_casa_firjan_lettering",
+      "file_path": "BOARDS/BOARD_12_CASA_FIRJAN/BOARD_12_casa_firjan_lettering.png"
+    },
+    {
+      "name": "BOARD_05_parques_print_publishing.png",
+      "folder": "BOARD_05_PARQUES",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_05_PARQUES/BOARD_05_parques_print_publishing.png",
+      "figmin_name": "BOARD_05_PARQUES_BOARD_05_parques_print_publishing",
+      "file_path": "BOARDS/BOARD_05_PARQUES/BOARD_05_parques_print_publishing.png"
+    },
+    {
+      "name": "BOARD_05_parques_desafios_oportunidades.png",
+      "folder": "BOARD_05_PARQUES",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_05_PARQUES/BOARD_05_parques_desafios_oportunidades.png",
+      "figmin_name": "BOARD_05_PARQUES_BOARD_05_parques_desafios_oportunidades",
+      "file_path": "BOARDS/BOARD_05_PARQUES/BOARD_05_parques_desafios_oportunidades.png"
+    },
+    {
+      "name": "BOARD_05_parques_csm_scene.png",
+      "folder": "BOARD_05_PARQUES",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_05_PARQUES/BOARD_05_parques_csm_scene.png",
+      "figmin_name": "BOARD_05_PARQUES_BOARD_05_parques_csm_scene",
+      "file_path": "BOARDS/BOARD_05_PARQUES/BOARD_05_parques_csm_scene.png"
+    },
+    {
+      "name": "05_parques_graficos.png",
+      "folder": "BOARD_05_PARQUES",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_05_PARQUES/05_parques_graficos.png",
+      "figmin_name": "BOARD_05_PARQUES_05_parques_graficos",
+      "file_path": "BOARDS/BOARD_05_PARQUES/05_parques_graficos.png"
+    },
+    {
+      "name": "BOARD_06_cenografia_visual_electric.png",
+      "folder": "BOARD_06_CENOGRAFIA",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_06_CENOGRAFIA/BOARD_06_cenografia_visual_electric.png",
+      "figmin_name": "BOARD_06_CENOGRAFIA_BOARD_06_cenografia_visual_electric",
+      "file_path": "BOARDS/BOARD_06_CENOGRAFIA/BOARD_06_cenografia_visual_electric.png"
+    },
+    {
+      "name": "06_cenografia_criativa.png",
+      "folder": "BOARD_06_CENOGRAFIA",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_06_CENOGRAFIA/06_cenografia_criativa.png",
+      "figmin_name": "BOARD_06_CENOGRAFIA_06_cenografia_criativa",
+      "file_path": "BOARDS/BOARD_06_CENOGRAFIA/06_cenografia_criativa.png"
+    },
+    {
+      "name": "06_experiencia_imersiva.png",
+      "folder": "BOARD_06_CENOGRAFIA",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_06_CENOGRAFIA/06_experiencia_imersiva.png",
+      "figmin_name": "BOARD_06_CENOGRAFIA_06_experiencia_imersiva",
+      "file_path": "BOARDS/BOARD_06_CENOGRAFIA/06_experiencia_imersiva.png"
+    },
+    {
+      "name": "BOARD_01_pergunta_interrogacoes.png",
+      "folder": "BOARD_01_PERGUNTA",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_01_PERGUNTA/BOARD_01_pergunta_interrogacoes.png",
+      "figmin_name": "BOARD_01_PERGUNTA_BOARD_01_pergunta_interrogacoes",
+      "file_path": "BOARDS/BOARD_01_PERGUNTA/BOARD_01_pergunta_interrogacoes.png"
+    },
+    {
+      "name": "01_let_interrogacoes.png",
+      "folder": "BOARD_01_PERGUNTA",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_01_PERGUNTA/01_let_interrogacoes.png",
+      "figmin_name": "BOARD_01_PERGUNTA_01_let_interrogacoes",
+      "file_path": "BOARDS/BOARD_01_PERGUNTA/01_let_interrogacoes.png"
+    },
+    {
+      "name": "BOARD_01_pergunta_de_onde_vem.png",
+      "folder": "BOARD_01_PERGUNTA",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_01_PERGUNTA/BOARD_01_pergunta_de_onde_vem.png",
+      "figmin_name": "BOARD_01_PERGUNTA_BOARD_01_pergunta_de_onde_vem",
+      "file_path": "BOARDS/BOARD_01_PERGUNTA/BOARD_01_pergunta_de_onde_vem.png"
+    },
+    {
+      "name": "01_let_de_onde-_vem.png",
+      "folder": "BOARD_01_PERGUNTA",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_01_PERGUNTA/01_let_de_onde-_vem.png",
+      "figmin_name": "BOARD_01_PERGUNTA_01_let_de_onde__vem",
+      "file_path": "BOARDS/BOARD_01_PERGUNTA/01_let_de_onde-_vem.png"
+    },
+    {
+      "name": "01_let_interrogacao.png",
+      "folder": "BOARD_01_PERGUNTA",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_01_PERGUNTA/01_let_interrogacao.png",
+      "figmin_name": "BOARD_01_PERGUNTA_01_let_interrogacao",
+      "file_path": "BOARDS/BOARD_01_PERGUNTA/01_let_interrogacao.png"
+    },
+    {
+      "name": "03_evolucao_da_producao_grafica.png",
+      "folder": "BOARD_03_TIPOGRAFIA",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_03_TIPOGRAFIA/03_evolucao_da_producao_grafica.png",
+      "figmin_name": "BOARD_03_TIPOGRAFIA_03_evolucao_da_producao_grafica",
+      "file_path": "BOARDS/BOARD_03_TIPOGRAFIA/03_evolucao_da_producao_grafica.png"
+    },
+    {
+      "name": "BOARD_03_tipografia_extra_001.png",
+      "folder": "BOARD_03_TIPOGRAFIA",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_03_TIPOGRAFIA/BOARD_03_tipografia_extra_001.png",
+      "figmin_name": "BOARD_03_TIPOGRAFIA_BOARD_03_tipografia_extra_001",
+      "file_path": "BOARDS/BOARD_03_TIPOGRAFIA/BOARD_03_tipografia_extra_001.png"
+    },
+    {
+      "name": "BOARD_03_tipografia_industria_grafica.png",
+      "folder": "BOARD_03_TIPOGRAFIA",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_03_TIPOGRAFIA/BOARD_03_tipografia_industria_grafica.png",
+      "figmin_name": "BOARD_03_TIPOGRAFIA_BOARD_03_tipografia_industria_grafica",
+      "file_path": "BOARDS/BOARD_03_TIPOGRAFIA/BOARD_03_tipografia_industria_grafica.png"
+    },
+    {
+      "name": "BOARD_03_tipografia_curso.png",
+      "folder": "BOARD_03_TIPOGRAFIA",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_03_TIPOGRAFIA/BOARD_03_tipografia_curso.png",
+      "figmin_name": "BOARD_03_TIPOGRAFIA_BOARD_03_tipografia_curso",
+      "file_path": "BOARDS/BOARD_03_TIPOGRAFIA/BOARD_03_tipografia_curso.png"
+    },
+    {
+      "name": "BOARD_04_escritores_mulher_computador.png",
+      "folder": "BOARD_04_ESCRITORES",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_mulher_computador.png",
+      "figmin_name": "BOARD_04_ESCRITORES_BOARD_04_escritores_mulher_computador",
+      "file_path": "BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_mulher_computador.png"
+    },
+    {
+      "name": "04_o_escritor.png",
+      "folder": "BOARD_04_ESCRITORES",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_04_ESCRITORES/04_o_escritor.png",
+      "figmin_name": "BOARD_04_ESCRITORES_04_o_escritor",
+      "file_path": "BOARDS/BOARD_04_ESCRITORES/04_o_escritor.png"
+    },
+    {
+      "name": "BOARD_04_escritores_profile_scene.png",
+      "folder": "BOARD_04_ESCRITORES",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_profile_scene.png",
+      "figmin_name": "BOARD_04_ESCRITORES_BOARD_04_escritores_profile_scene",
+      "file_path": "BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_profile_scene.png"
+    },
+    {
+      "name": "BOARD_04_escritores_homem_maquina_escrever.png",
+      "folder": "BOARD_04_ESCRITORES",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_homem_maquina_escrever.png",
+      "figmin_name": "BOARD_04_ESCRITORES_BOARD_04_escritores_homem_maquina_escrever",
+      "file_path": "BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_homem_maquina_escrever.png"
+    },
+    {
+      "name": "BOARD_04_escritores_pexels_scene.png",
+      "folder": "BOARD_04_ESCRITORES",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_pexels_scene.png",
+      "figmin_name": "BOARD_04_ESCRITORES_BOARD_04_escritores_pexels_scene",
+      "file_path": "BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_pexels_scene.png"
+    },
+    {
+      "name": "BOARD_04_escritores_dicionario_industria.png",
+      "folder": "BOARD_04_ESCRITORES",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_dicionario_industria.png",
+      "figmin_name": "BOARD_04_ESCRITORES_BOARD_04_escritores_dicionario_industria",
+      "file_path": "BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_dicionario_industria.png"
+    }
+  ],
+  "models_3d": [
+    {
+      "name": "prensa_de_guttenberg.glb",
+      "folder": "glbs",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/glbs/prensa_de_guttenberg.glb",
+      "figmin_name": "glbs_prensa_de_guttenberg",
+      "file_path": "glbs/prensa_de_guttenberg.glb",
+      "size_mb": 5.8
+    },
+    {
+      "name": "firjan-cenas-otimizado.glb",
+      "folder": "glbs",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/glbs/firjan-cenas-otimizado.glb",
+      "figmin_name": "glbs_firjan_cenas_otimizado",
+      "file_path": "glbs/firjan-cenas-otimizado.glb",
+      "size_mb": 27.0
+    },
+    {
+      "name": "prensa_de_guttenberg.glb",
+      "folder": "GLB_EXPORTS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/prensa_de_guttenberg.glb",
+      "figmin_name": "MODEL_prensa_de_guttenberg",
+      "file_path": "GLB_EXPORTS/prensa_de_guttenberg.glb",
+      "size_mb": 5.8
+    },
+    {
+      "name": "FIRJAN_XR_All_Spheres_360.glb",
+      "folder": "GLB_EXPORTS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_All_Spheres_360.glb",
+      "figmin_name": "MODEL_FIRJAN_XR_All_Spheres_360",
+      "file_path": "GLB_EXPORTS/FIRJAN_XR_All_Spheres_360.glb",
+      "size_mb": 8.0
+    },
+    {
+      "name": "FIRJAN_XR_Collections_5-8.glb",
+      "folder": "GLB_EXPORTS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Collections_5-8.glb",
+      "figmin_name": "MODEL_FIRJAN_XR_Collections_5_8",
+      "file_path": "GLB_EXPORTS/FIRJAN_XR_Collections_5-8.glb",
+      "size_mb": 16.8
+    },
+    {
+      "name": "FIRJAN_XR_Collection_8.glb",
+      "folder": "GLB_EXPORTS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Collection_8.glb",
+      "figmin_name": "MODEL_FIRJAN_XR_Collection_8",
+      "file_path": "GLB_EXPORTS/FIRJAN_XR_Collection_8.glb",
+      "size_mb": 1.9
+    },
+    {
+      "name": "FIRJAN_XR_Sphere_360_02.glb",
+      "folder": "GLB_EXPORTS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Sphere_360_02.glb",
+      "figmin_name": "MODEL_FIRJAN_XR_Sphere_360_02",
+      "file_path": "GLB_EXPORTS/FIRJAN_XR_Sphere_360_02.glb",
+      "size_mb": 2.1
+    },
+    {
+      "name": "FIRJAN_XR_Collection_5.glb",
+      "folder": "GLB_EXPORTS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Collection_5.glb",
+      "figmin_name": "MODEL_FIRJAN_XR_Collection_5",
+      "file_path": "GLB_EXPORTS/FIRJAN_XR_Collection_5.glb",
+      "size_mb": 6.4
+    },
+    {
+      "name": "FIRJAN_XR_Collection_4.glb",
+      "folder": "GLB_EXPORTS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Collection_4.glb",
+      "figmin_name": "MODEL_FIRJAN_XR_Collection_4",
+      "file_path": "GLB_EXPORTS/FIRJAN_XR_Collection_4.glb",
+      "size_mb": 0.9
+    },
+    {
+      "name": "FIRJAN_XR_Sphere_360_03.glb",
+      "folder": "GLB_EXPORTS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Sphere_360_03.glb",
+      "figmin_name": "MODEL_FIRJAN_XR_Sphere_360_03",
+      "file_path": "GLB_EXPORTS/FIRJAN_XR_Sphere_360_03.glb",
+      "size_mb": 2.0
+    },
+    {
+      "name": "FIRJAN_XR_Sphere_360_01.glb",
+      "folder": "GLB_EXPORTS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Sphere_360_01.glb",
+      "figmin_name": "MODEL_FIRJAN_XR_Sphere_360_01",
+      "file_path": "GLB_EXPORTS/FIRJAN_XR_Sphere_360_01.glb",
+      "size_mb": 2.0
+    },
+    {
+      "name": "FIRJAN_XR_Collection_6.glb",
+      "folder": "GLB_EXPORTS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Collection_6.glb",
+      "figmin_name": "MODEL_FIRJAN_XR_Collection_6",
+      "file_path": "GLB_EXPORTS/FIRJAN_XR_Collection_6.glb",
+      "size_mb": 1.2
+    },
+    {
+      "name": "FIRJAN_XR_Collection_7.glb",
+      "folder": "GLB_EXPORTS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Collection_7.glb",
+      "figmin_name": "MODEL_FIRJAN_XR_Collection_7",
+      "file_path": "GLB_EXPORTS/FIRJAN_XR_Collection_7.glb",
+      "size_mb": 7.3
+    },
+    {
+      "name": "FIRJAN_XR_Sphere_360_00.glb",
+      "folder": "GLB_EXPORTS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Sphere_360_00.glb",
+      "figmin_name": "MODEL_FIRJAN_XR_Sphere_360_00",
+      "file_path": "GLB_EXPORTS/FIRJAN_XR_Sphere_360_00.glb",
+      "size_mb": 2.0
+    },
+    {
+      "name": "FIRJAN_XR_Collection_3.glb",
+      "folder": "GLB_EXPORTS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Collection_3.glb",
+      "figmin_name": "MODEL_FIRJAN_XR_Collection_3",
+      "file_path": "GLB_EXPORTS/FIRJAN_XR_Collection_3.glb",
+      "size_mb": 2.5
+    },
+    {
+      "name": "FIRJAN_XR_Collection_2.glb",
+      "folder": "GLB_EXPORTS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Collection_2.glb",
+      "figmin_name": "MODEL_FIRJAN_XR_Collection_2",
+      "file_path": "GLB_EXPORTS/FIRJAN_XR_Collection_2.glb",
+      "size_mb": 6.1
+    },
+    {
+      "name": "FIRJAN_XR_Collections_1-4.glb",
+      "folder": "GLB_EXPORTS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Collections_1-4.glb",
+      "figmin_name": "MODEL_FIRJAN_XR_Collections_1_4",
+      "file_path": "GLB_EXPORTS/FIRJAN_XR_Collections_1-4.glb",
+      "size_mb": 10.0
+    },
+    {
+      "name": "Modern_Print_Line_In_0704154444_texture.glb",
+      "folder": "GLB_EXPORTS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/Modern_Print_Line_In_0704154444_texture.glb",
+      "figmin_name": "MODEL_Modern_Print_Line_In_0704154444_texture",
+      "file_path": "GLB_EXPORTS/Modern_Print_Line_In_0704154444_texture.glb",
+      "size_mb": 21.9
+    },
+    {
+      "name": "FIRJAN_XR_Collection_1.glb",
+      "folder": "GLB_EXPORTS",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/GLB_EXPORTS/FIRJAN_XR_Collection_1.glb",
+      "figmin_name": "MODEL_FIRJAN_XR_Collection_1",
+      "file_path": "GLB_EXPORTS/FIRJAN_XR_Collection_1.glb",
+      "size_mb": 0.5
+    }
+  ],
+  "audio_files": [
+    {
+      "name": "ElevenLabs_2025-07-04T10_50_20__s50_v3.mp3",
+      "folder": "VOICEOVER",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/AUDIO/VOICEOVER/ElevenLabs_2025-07-04T10_50_20__s50_v3.mp3",
+      "figmin_name": "AUDIO_ElevenLabs_2025_07_04T10_50_20__s50_v3",
+      "file_path": "AUDIO/VOICEOVER/ElevenLabs_2025-07-04T10_50_20__s50_v3.mp3",
+      "size_mb": 2.1
+    },
+    {
+      "name": "ElevenLabs_2025-07-04T10_53_15_James - Husky & Engaging_pvc_sp100_s50_sb50_se10_b_e2.mp3",
+      "folder": "VOICEOVER",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/AUDIO/VOICEOVER/ElevenLabs_2025-07-04T10_53_15_James%20-%20Husky%20%26%20Engaging_pvc_sp100_s50_sb50_se10_b_e2.mp3",
+      "figmin_name": "AUDIO_ElevenLabs_2025_07_04T10_53_15_James___Husky_and_Engaging_pvc_sp100_s50_sb50_se10_b_e2",
+      "file_path": "AUDIO/VOICEOVER/ElevenLabs_2025-07-04T10_53_15_James - Husky & Engaging_pvc_sp100_s50_sb50_se10_b_e2.mp3",
+      "size_mb": 2.5
+    },
+    {
+      "name": "FIRJAN_tour_virtual_guta_voiceover.mp3",
+      "folder": "VOICEOVER",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/AUDIO/VOICEOVER/FIRJAN_tour_virtual_guta_voiceover.mp3",
+      "figmin_name": "AUDIO_FIRJAN_tour_virtual_guta_voiceover",
+      "file_path": "AUDIO/VOICEOVER/FIRJAN_tour_virtual_guta_voiceover.mp3",
+      "size_mb": 3.8
+    }
+  ],
+  "video_files": [
+    {
+      "name": "FIRJAN_Guta_Voiceover_YT.mp4",
+      "folder": ".",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/FIRJAN_Guta_Voiceover_YT.mp4",
+      "figmin_name": "._FIRJAN_Guta_Voiceover_YT",
+      "file_path": "FIRJAN_Guta_Voiceover_YT.mp4",
+      "size_mb": 2.7
+    },
+    {
+      "name": "Generated File July 04, 2025 - 8_08AM (1).mp4",
+      "folder": "videos",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/videos/Generated%20File%20July%2004%2C%202025%20-%208_08AM%20%281%29.mp4",
+      "figmin_name": "VIDEO_Generated_File_July_04_2025___8_08AM_1",
+      "file_path": "videos/Generated File July 04, 2025 - 8_08AM (1).mp4",
+      "size_mb": 6.9
+    },
+    {
+      "name": "Vídeo_Guttenberg_e_a_Bíblia.mp4",
+      "folder": "videos",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/videos/Vi%CC%81deo_Guttenberg_e_a_Bi%CC%81blia.mp4",
+      "figmin_name": "VIDEO_Vídeo_Guttenberg_e_a_Bíblia",
+      "file_path": "videos/Vídeo_Guttenberg_e_a_Bíblia.mp4",
+      "size_mb": 1.3
+    },
+    {
+      "name": "Generated File July 04, 2025 - 8_08AM.mp4",
+      "folder": "videos",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/videos/Generated%20File%20July%2004%2C%202025%20-%208_08AM.mp4",
+      "figmin_name": "VIDEO_Generated_File_July_04_2025___8_08AM",
+      "file_path": "videos/Generated File July 04, 2025 - 8_08AM.mp4",
+      "size_mb": 4.2
+    },
+    {
+      "name": "Video_Ready_Printing_Press.mp4",
+      "folder": "videos",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/videos/Video_Ready_Printing_Press.mp4",
+      "figmin_name": "VIDEO_Video_Ready_Printing_Press",
+      "file_path": "videos/Video_Ready_Printing_Press.mp4",
+      "size_mb": 2.6
+    },
+    {
+      "name": "ElevenLabs_2025-07-04T10_50_20__s50_v3.mp4",
+      "folder": "videos",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/AUDIO/VOICEOVER/videos/ElevenLabs_2025-07-04T10_50_20__s50_v3.mp4",
+      "figmin_name": "VIDEO_ElevenLabs_2025_07_04T10_50_20__s50_v3",
+      "file_path": "AUDIO/VOICEOVER/videos/ElevenLabs_2025-07-04T10_50_20__s50_v3.mp4",
+      "size_mb": 3.4
+    },
+    {
+      "name": "ElevenLabs_2025-07-04T10_53_15_James - Husky & Engaging_pvc_sp100_s50_sb50_se10_b_e2.mp4",
+      "folder": "videos",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/AUDIO/VOICEOVER/videos/ElevenLabs_2025-07-04T10_53_15_James%20-%20Husky%20%26%20Engaging_pvc_sp100_s50_sb50_se10_b_e2.mp4",
+      "figmin_name": "VIDEO_ElevenLabs_2025_07_04T10_53_15_James___Husky_and_Engaging_pvc_sp100_s50_sb50_se10_b_e2",
+      "file_path": "AUDIO/VOICEOVER/videos/ElevenLabs_2025-07-04T10_53_15_James - Husky & Engaging_pvc_sp100_s50_sb50_se10_b_e2.mp4",
+      "size_mb": 3.7
+    },
+    {
+      "name": "FIRJAN_tour_virtual_guta_voiceover.mp4",
+      "folder": "videos",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/AUDIO/VOICEOVER/videos/FIRJAN_tour_virtual_guta_voiceover.mp4",
+      "figmin_name": "VIDEO_FIRJAN_tour_virtual_guta_voiceover",
+      "file_path": "AUDIO/VOICEOVER/videos/FIRJAN_tour_virtual_guta_voiceover.mp4",
+      "size_mb": 4.3
+    },
+    {
+      "name": "BOARD_10_VISUAL_ELECTRIC_VIDEO.mp4",
+      "folder": "BOARD_10_VISUAL_ELECTRIC",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_10_VISUAL_ELECTRIC/BOARD_10_VISUAL_ELECTRIC_VIDEO.mp4",
+      "figmin_name": "BOARD_10_VISUAL_ELECTRIC_BOARD_10_VISUAL_ELECTRIC_VIDEO",
+      "file_path": "BOARDS/BOARD_10_VISUAL_ELECTRIC/BOARD_10_VISUAL_ELECTRIC_VIDEO.mp4",
+      "size_mb": 0.1
+    },
+    {
+      "name": "BOARD_09_EXPERIENCIA_VIDEO.mp4",
+      "folder": "BOARD_09_EXPERIENCIA",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_09_EXPERIENCIA/BOARD_09_EXPERIENCIA_VIDEO.mp4",
+      "figmin_name": "BOARD_09_EXPERIENCIA_BOARD_09_EXPERIENCIA_VIDEO",
+      "file_path": "BOARDS/BOARD_09_EXPERIENCIA/BOARD_09_EXPERIENCIA_VIDEO.mp4",
+      "size_mb": 0.1
+    },
+    {
+      "name": "BOARD_11_VISUAL_ELECTRIC_ALT_VIDEO.mp4",
+      "folder": "BOARD_11_VISUAL_ELECTRIC_ALT",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_11_VISUAL_ELECTRIC_ALT/BOARD_11_VISUAL_ELECTRIC_ALT_VIDEO.mp4",
+      "figmin_name": "BOARD_11_VISUAL_ELECTRIC_ALT_BOARD_11_VISUAL_ELECTRIC_ALT_VIDEO",
+      "file_path": "BOARDS/BOARD_11_VISUAL_ELECTRIC_ALT/BOARD_11_VISUAL_ELECTRIC_ALT_VIDEO.mp4",
+      "size_mb": 0.1
+    },
+    {
+      "name": "BOARD_02_GUTENBERG_VIDEO.mp4",
+      "folder": "BOARD_02_GUTENBERG",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_02_GUTENBERG/BOARD_02_GUTENBERG_VIDEO.mp4",
+      "figmin_name": "BOARD_02_GUTENBERG_BOARD_02_GUTENBERG_VIDEO",
+      "file_path": "BOARDS/BOARD_02_GUTENBERG/BOARD_02_GUTENBERG_VIDEO.mp4",
+      "size_mb": 1.9
+    },
+    {
+      "name": "BOARD_12_CASA_FIRJAN_VIDEO.mp4",
+      "folder": "BOARD_12_CASA_FIRJAN",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_12_CASA_FIRJAN/BOARD_12_CASA_FIRJAN_VIDEO.mp4",
+      "figmin_name": "BOARD_12_CASA_FIRJAN_BOARD_12_CASA_FIRJAN_VIDEO",
+      "file_path": "BOARDS/BOARD_12_CASA_FIRJAN/BOARD_12_CASA_FIRJAN_VIDEO.mp4",
+      "size_mb": 0.1
+    },
+    {
+      "name": "BOARD_05_PARQUES_VIDEO.mp4",
+      "folder": "BOARD_05_PARQUES",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_05_PARQUES/BOARD_05_PARQUES_VIDEO.mp4",
+      "figmin_name": "BOARD_05_PARQUES_BOARD_05_PARQUES_VIDEO",
+      "file_path": "BOARDS/BOARD_05_PARQUES/BOARD_05_PARQUES_VIDEO.mp4",
+      "size_mb": 0.9
+    },
+    {
+      "name": "BOARD_06_CENOGRAFIA_VIDEO.mp4",
+      "folder": "BOARD_06_CENOGRAFIA",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_06_CENOGRAFIA/BOARD_06_CENOGRAFIA_VIDEO.mp4",
+      "figmin_name": "BOARD_06_CENOGRAFIA_BOARD_06_CENOGRAFIA_VIDEO",
+      "file_path": "BOARDS/BOARD_06_CENOGRAFIA/BOARD_06_CENOGRAFIA_VIDEO.mp4",
+      "size_mb": 0.4
+    },
+    {
+      "name": "BOARD_01_PERGUNTA_VIDEO.mp4",
+      "folder": "BOARD_01_PERGUNTA",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_01_PERGUNTA/BOARD_01_PERGUNTA_VIDEO.mp4",
+      "figmin_name": "BOARD_01_PERGUNTA_BOARD_01_PERGUNTA_VIDEO",
+      "file_path": "BOARDS/BOARD_01_PERGUNTA/BOARD_01_PERGUNTA_VIDEO.mp4",
+      "size_mb": 0.3
+    },
+    {
+      "name": "BOARD_03_TIPOGRAFIA_VIDEO.mp4",
+      "folder": "BOARD_03_TIPOGRAFIA",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_03_TIPOGRAFIA/BOARD_03_TIPOGRAFIA_VIDEO.mp4",
+      "figmin_name": "BOARD_03_TIPOGRAFIA_BOARD_03_TIPOGRAFIA_VIDEO",
+      "file_path": "BOARDS/BOARD_03_TIPOGRAFIA/BOARD_03_TIPOGRAFIA_VIDEO.mp4",
+      "size_mb": 1.5
+    },
+    {
+      "name": "BOARD_04_ESCRITORES_VIDEO.mp4",
+      "folder": "BOARD_04_ESCRITORES",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/BOARDS/BOARD_04_ESCRITORES/BOARD_04_ESCRITORES_VIDEO.mp4",
+      "figmin_name": "BOARD_04_ESCRITORES_BOARD_04_ESCRITORES_VIDEO",
+      "file_path": "BOARDS/BOARD_04_ESCRITORES/BOARD_04_ESCRITORES_VIDEO.mp4",
+      "size_mb": 1.2
+    }
+  ],
+  "spheres_360": [
+    {
+      "name": "out-3.png",
+      "folder": "360 images",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/360%20images/out-3.png",
+      "figmin_name": "SPHERE360_out_3",
+      "file_path": "360 images/out-3.png"
+    },
+    {
+      "name": "out-2.png",
+      "folder": "360 images",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/360%20images/out-2.png",
+      "figmin_name": "SPHERE360_out_2",
+      "file_path": "360 images/out-2.png"
+    },
+    {
+      "name": "out-0.png",
+      "folder": "360 images",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/360%20images/out-0.png",
+      "figmin_name": "SPHERE360_out_0",
+      "file_path": "360 images/out-0.png"
+    },
+    {
+      "name": "out-1.png",
+      "folder": "360 images",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/FIRJAN_XR_ASSETS/360%20images/out-1.png",
+      "figmin_name": "SPHERE360_out_1",
+      "file_path": "360 images/out-1.png"
+    }
+  ],
+  "youtube_videos": [],
+  "figmin_imports": [],
+  "summary": {
+    "total_files": 99,
+    "total_images": 59,
+    "total_models": 19,
+    "total_audio": 3,
+    "total_video": 18,
+    "generation_date": "2025-07-04"
+  }
+}

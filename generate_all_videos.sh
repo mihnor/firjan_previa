@@ -1,12 +1,16 @@
 #!/bin/bash
-# FIRJAN XR - Simple Video Generation Script (Working Version)
-# ==========================================================
+# FIRJAN XR - Complete Video Generation Script
+# ==========================================
+# Gera vídeos para todos os boards usando letterings numerados + narração
 
-echo "🎬 FIRJAN XR - Gerando vídeos (versão simplificada)..."
-echo "======================================================"
+echo "🎬 FIRJAN XR - Gerando todos os vídeos..."
+echo "======================================="
 
 # Configurações globais
-AUDIO_FILE="../Casa Firjan - tour virtual locução - Tratamento.wav"
+AUDIO_FILE="Casa Firjan - tour virtual locução - Tratamento.wav"
+RESOLUTION="1920x1080"
+FPS="30"
+IMAGE_DURATION="4"  # segundos por imagem
 
 # Função para gerar vídeo de um board
 generate_board_video() {
@@ -32,38 +36,34 @@ generate_board_video() {
     > "$filelist"  # Limpar arquivo
     
     for img in "${images[@]}"; do
-        # Usar caminho absoluto
-        abs_img=$(realpath "$img")
-        echo "file '$abs_img'" >> "$filelist"
-        echo "duration 3" >> "$filelist"
+        echo "file '$img'" >> "$filelist"
+        echo "duration $IMAGE_DURATION" >> "$filelist"
     done
     
-    # Comando FFmpeg - versão que funciona
-    echo "  🎬 Gerando vídeo..."
+    # Comando FFmpeg
     if [ -f "$AUDIO_FILE" ]; then
-        echo "  🎵 Com narração..."
+        echo "  🎵 Adicionando narração..."
         ffmpeg -y \
             -f concat -safe 0 -i "$filelist" \
             -i "$AUDIO_FILE" \
-            -vf "scale=1920:1080:force_original_aspect_ratio=decrease,pad=1920:1080:(ow-iw)/2:(oh-ih)/2" \
-            -c:v libx264 -pix_fmt yuv420p -r 30 \
+            -vf "scale=$RESOLUTION:force_original_aspect_ratio=decrease,pad=$RESOLUTION:(ow-iw)/2:(oh-ih)/2,setsar=1" \
+            -c:v libx264 -pix_fmt yuv420p -r $FPS \
             -c:a aac -b:a 128k \
             -shortest \
-            "$output_file" >/dev/null 2>&1
+            "$output_file"
     else
-        echo "  🔇 Sem áudio..."
+        echo "  🔇 Sem áudio - apenas slideshow"
         ffmpeg -y \
             -f concat -safe 0 -i "$filelist" \
-            -vf "scale=1920:1080:force_original_aspect_ratio=decrease,pad=1920:1080:(ow-iw)/2:(oh-ih)/2" \
-            -c:v libx264 -pix_fmt yuv420p -r 30 \
-            "$output_file" >/dev/null 2>&1
+            -vf "scale=$RESOLUTION:force_original_aspect_ratio=decrease,pad=$RESOLUTION:(ow-iw)/2:(oh-ih)/2,setsar=1" \
+            -c:v libx264 -pix_fmt yuv420p -r $FPS \
+            "$output_file"
     fi
     
     # Limpar arquivo temporário
-    rm -f "$filelist"
+    rm "$filelist"
     
-    # Verificar se funcionou
-    if [ -f "$output_file" ] && [ -s "$output_file" ]; then
+    if [ $? -eq 0 ]; then
         local file_size=$(du -h "$output_file" | cut -f1)
         echo "  ✅ $board_name concluído! ($file_size)"
         return 0
@@ -77,6 +77,7 @@ generate_board_video() {
 if ! command -v ffmpeg &> /dev/null; then
     echo "❌ FFmpeg não encontrado. Instale com:"
     echo "   macOS: brew install ffmpeg"
+    echo "   Ubuntu: sudo apt install ffmpeg"
     exit 1
 fi
 
@@ -90,14 +91,8 @@ fi
 SUCCESS_COUNT=0
 TOTAL_COUNT=0
 
-for board_dir in BOARDS/BOARD_*; do
+for board_dir in FIRJAN_XR_ASSETS/BOARDS/BOARD_*; do
     if [ -d "$board_dir" ]; then
-        # Pular boards vazios
-        if [ -z "$(find "$board_dir" -name "*.png" -print -quit)" ]; then
-            echo "⏭️  Pulando $board_dir (sem imagens)"
-            continue
-        fi
-        
         ((TOTAL_COUNT++))
         if generate_board_video "$board_dir"; then
             ((SUCCESS_COUNT++))
@@ -107,17 +102,17 @@ for board_dir in BOARDS/BOARD_*; do
 done
 
 # Sumário final
-echo "======================================================"
+echo "======================================="
 echo "✅ Processamento concluído!"
 echo "📊 Sucesso: $SUCCESS_COUNT/$TOTAL_COUNT boards"
 echo ""
 
 # Listar vídeos gerados
-echo "🎬 Vídeos gerados com sucesso:"
-find BOARDS -name "*_VIDEO.mp4" -size +0c -exec ls -lh {} \; | awk '{print "  📹 " $9 " (" $5 ")"}'
+echo "🎬 Vídeos gerados:"
+find FIRJAN_XR_ASSETS/BOARDS -name "*_VIDEO.mp4" -exec ls -lh {} \; | awk '{print "  📹 " $9 " (" $5 ")"}'
 
 echo ""
 echo "🔧 Próximos passos:"
-echo "1. Verificar qualidade dos vídeos"
-echo "2. Fazer upload para GitHub" 
+echo "1. Revisar os vídeos gerados"
+echo "2. Fazer upload para o GitHub"
 echo "3. Integrar com Figmin XR" 

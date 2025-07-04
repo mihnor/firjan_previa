@@ -1,0 +1,153 @@
+{
+  "images": [
+    {
+      "board": "BOARD_01_PERGUNTA",
+      "file": "BOARD_01_pergunta_de_onde_vem.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_01_PERGUNTA/BOARD_01_pergunta_de_onde_vem.png",
+      "figmin_name": "BOARD_01_PERGUNTA_BOARD_01_pergunta_de_onde_vem"
+    },
+    {
+      "board": "BOARD_01_PERGUNTA",
+      "file": "BOARD_01_pergunta_interrogacoes.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_01_PERGUNTA/BOARD_01_pergunta_interrogacoes.png",
+      "figmin_name": "BOARD_01_PERGUNTA_BOARD_01_pergunta_interrogacoes"
+    },
+    {
+      "board": "BOARD_02_GUTENBERG",
+      "file": "BOARD_02_gutenberg_extra_001.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_extra_001.png",
+      "figmin_name": "BOARD_02_GUTENBERG_BOARD_02_gutenberg_extra_001"
+    },
+    {
+      "board": "BOARD_02_GUTENBERG",
+      "file": "BOARD_02_gutenberg_historical_press.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_historical_press.png",
+      "figmin_name": "BOARD_02_GUTENBERG_BOARD_02_gutenberg_historical_press"
+    },
+    {
+      "board": "BOARD_02_GUTENBERG",
+      "file": "BOARD_02_gutenberg_invencao_contexto.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_invencao_contexto.png",
+      "figmin_name": "BOARD_02_GUTENBERG_BOARD_02_gutenberg_invencao_contexto"
+    },
+    {
+      "board": "BOARD_02_GUTENBERG",
+      "file": "BOARD_02_gutenberg_lettering.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_lettering.png",
+      "figmin_name": "BOARD_02_GUTENBERG_BOARD_02_gutenberg_lettering"
+    },
+    {
+      "board": "BOARD_02_GUTENBERG",
+      "file": "BOARD_02_gutenberg_printing_press.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_printing_press.png",
+      "figmin_name": "BOARD_02_GUTENBERG_BOARD_02_gutenberg_printing_press"
+    },
+    {
+      "board": "BOARD_03_TIPOGRAFIA",
+      "file": "BOARD_03_tipografia_curso.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_03_TIPOGRAFIA/BOARD_03_tipografia_curso.png",
+      "figmin_name": "BOARD_03_TIPOGRAFIA_BOARD_03_tipografia_curso"
+    },
+    {
+      "board": "BOARD_03_TIPOGRAFIA",
+      "file": "BOARD_03_tipografia_extra_001.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_03_TIPOGRAFIA/BOARD_03_tipografia_extra_001.png",
+      "figmin_name": "BOARD_03_TIPOGRAFIA_BOARD_03_tipografia_extra_001"
+    },
+    {
+      "board": "BOARD_03_TIPOGRAFIA",
+      "file": "BOARD_03_tipografia_industria_grafica.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_03_TIPOGRAFIA/BOARD_03_tipografia_industria_grafica.png",
+      "figmin_name": "BOARD_03_TIPOGRAFIA_BOARD_03_tipografia_industria_grafica"
+    },
+    {
+      "board": "BOARD_04_ESCRITORES",
+      "file": "BOARD_04_escritores_dicionario_industria.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_dicionario_industria.png",
+      "figmin_name": "BOARD_04_ESCRITORES_BOARD_04_escritores_dicionario_industria"
+    },
+    {
+      "board": "BOARD_04_ESCRITORES",
+      "file": "BOARD_04_escritores_homem_maquina_escrever.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_homem_maquina_escrever.png",
+      "figmin_name": "BOARD_04_ESCRITORES_BOARD_04_escritores_homem_maquina_escrever"
+    },
+    {
+      "board": "BOARD_04_ESCRITORES",
+      "file": "BOARD_04_escritores_mulher_computador.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_mulher_computador.png",
+      "figmin_name": "BOARD_04_ESCRITORES_BOARD_04_escritores_mulher_computador"
+    },
+    {
+      "board": "BOARD_04_ESCRITORES",
+      "file": "BOARD_04_escritores_pexels_scene.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_pexels_scene.png",
+      "figmin_name": "BOARD_04_ESCRITORES_BOARD_04_escritores_pexels_scene"
+    },
+    {
+      "board": "BOARD_04_ESCRITORES",
+      "file": "BOARD_04_escritores_profile_scene.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_profile_scene.png",
+      "figmin_name": "BOARD_04_ESCRITORES_BOARD_04_escritores_profile_scene"
+    },
+    {
+      "board": "BOARD_05_PARQUES",
+      "file": "BOARD_05_parques_csm_scene.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_05_PARQUES/BOARD_05_parques_csm_scene.png",
+      "figmin_name": "BOARD_05_PARQUES_BOARD_05_parques_csm_scene"
+    },
+    {
+      "board": "BOARD_05_PARQUES",
+      "file": "BOARD_05_parques_desafios_oportunidades.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_05_PARQUES/BOARD_05_parques_desafios_oportunidades.png",
+      "figmin_name": "BOARD_05_PARQUES_BOARD_05_parques_desafios_oportunidades"
+    },
+    {
+      "board": "BOARD_05_PARQUES",
+      "file": "BOARD_05_parques_print_publishing.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_05_PARQUES/BOARD_05_parques_print_publishing.png",
+      "figmin_name": "BOARD_05_PARQUES_BOARD_05_parques_print_publishing"
+    },
+    {
+      "board": "BOARD_06_CENOGRAFIA",
+      "file": "BOARD_06_cenografia_visual_electric.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_06_CENOGRAFIA/BOARD_06_cenografia_visual_electric.png",
+      "figmin_name": "BOARD_06_CENOGRAFIA_BOARD_06_cenografia_visual_electric"
+    },
+    {
+      "board": "BOARD_09_EXPERIENCIA",
+      "file": "BOARD_09_experiencia_diy_scene.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_09_EXPERIENCIA/BOARD_09_experiencia_diy_scene.png",
+      "figmin_name": "BOARD_09_EXPERIENCIA_BOARD_09_experiencia_diy_scene"
+    },
+    {
+      "board": "BOARD_10_VISUAL_ELECTRIC",
+      "file": "BOARD_10_visual_electric_main.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_10_VISUAL_ELECTRIC/BOARD_10_visual_electric_main.png",
+      "figmin_name": "BOARD_10_VISUAL_ELECTRIC_BOARD_10_visual_electric_main"
+    },
+    {
+      "board": "BOARD_11_VISUAL_ELECTRIC_ALT",
+      "file": "BOARD_11_visual_electric_alt.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_11_VISUAL_ELECTRIC_ALT/BOARD_11_visual_electric_alt.png",
+      "figmin_name": "BOARD_11_VISUAL_ELECTRIC_ALT_BOARD_11_visual_electric_alt"
+    },
+    {
+      "board": "BOARD_12_CASA_FIRJAN",
+      "file": "BOARD_12_casa_firjan_lettering.png",
+      "url": "https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_12_CASA_FIRJAN/BOARD_12_casa_firjan_lettering.png",
+      "figmin_name": "BOARD_12_CASA_FIRJAN_BOARD_12_casa_firjan_lettering"
+    }
+  ],
+  "glb_models": [],
+  "youtube_videos": [
+    {
+      "name": "Guta_Voiceover",
+      "description": "Narração principal da Guta",
+      "youtube_url": "https://youtu.be/YOUR_VIDEO_ID_HERE",
+      "figmin_name": "FIRJAN_Guta_Audio",
+      "audio_file": "FIRJAN_tour_virtual_guta_voiceover.mp3"
+    }
+  ],
+  "figmin_imports": []
+}

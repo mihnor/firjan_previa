@@ -1,0 +1,72 @@
+FIRJAN XR - URLs para Figmin XR
+==================================================
+
+NOME: BOARD_01_PERGUNTA_BOARD_01_pergunta_de_onde_vem
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_01_PERGUNTA/BOARD_01_pergunta_de_onde_vem.png
+
+NOME: BOARD_01_PERGUNTA_BOARD_01_pergunta_interrogacoes
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_01_PERGUNTA/BOARD_01_pergunta_interrogacoes.png
+
+NOME: BOARD_02_GUTENBERG_BOARD_02_gutenberg_extra_001
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_extra_001.png
+
+NOME: BOARD_02_GUTENBERG_BOARD_02_gutenberg_historical_press
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_historical_press.png
+
+NOME: BOARD_02_GUTENBERG_BOARD_02_gutenberg_invencao_contexto
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_invencao_contexto.png
+
+NOME: BOARD_02_GUTENBERG_BOARD_02_gutenberg_lettering
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_lettering.png
+
+NOME: BOARD_02_GUTENBERG_BOARD_02_gutenberg_printing_press
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_02_GUTENBERG/BOARD_02_gutenberg_printing_press.png
+
+NOME: BOARD_03_TIPOGRAFIA_BOARD_03_tipografia_curso
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_03_TIPOGRAFIA/BOARD_03_tipografia_curso.png
+
+NOME: BOARD_03_TIPOGRAFIA_BOARD_03_tipografia_extra_001
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_03_TIPOGRAFIA/BOARD_03_tipografia_extra_001.png
+
+NOME: BOARD_03_TIPOGRAFIA_BOARD_03_tipografia_industria_grafica
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_03_TIPOGRAFIA/BOARD_03_tipografia_industria_grafica.png
+
+NOME: BOARD_04_ESCRITORES_BOARD_04_escritores_dicionario_industria
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_dicionario_industria.png
+
+NOME: BOARD_04_ESCRITORES_BOARD_04_escritores_homem_maquina_escrever
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_homem_maquina_escrever.png
+
+NOME: BOARD_04_ESCRITORES_BOARD_04_escritores_mulher_computador
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_mulher_computador.png
+
+NOME: BOARD_04_ESCRITORES_BOARD_04_escritores_pexels_scene
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_pexels_scene.png
+
+NOME: BOARD_04_ESCRITORES_BOARD_04_escritores_profile_scene
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_04_ESCRITORES/BOARD_04_escritores_profile_scene.png
+
+NOME: BOARD_05_PARQUES_BOARD_05_parques_csm_scene
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_05_PARQUES/BOARD_05_parques_csm_scene.png
+
+NOME: BOARD_05_PARQUES_BOARD_05_parques_desafios_oportunidades
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_05_PARQUES/BOARD_05_parques_desafios_oportunidades.png
+
+NOME: BOARD_05_PARQUES_BOARD_05_parques_print_publishing
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_05_PARQUES/BOARD_05_parques_print_publishing.png
+
+NOME: BOARD_06_CENOGRAFIA_BOARD_06_cenografia_visual_electric
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_06_CENOGRAFIA/BOARD_06_cenografia_visual_electric.png
+
+NOME: BOARD_09_EXPERIENCIA_BOARD_09_experiencia_diy_scene
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_09_EXPERIENCIA/BOARD_09_experiencia_diy_scene.png
+
+NOME: BOARD_10_VISUAL_ELECTRIC_BOARD_10_visual_electric_main
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_10_VISUAL_ELECTRIC/BOARD_10_visual_electric_main.png
+
+NOME: BOARD_11_VISUAL_ELECTRIC_ALT_BOARD_11_visual_electric_alt
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_11_VISUAL_ELECTRIC_ALT/BOARD_11_visual_electric_alt.png
+
+NOME: BOARD_12_CASA_FIRJAN_BOARD_12_casa_firjan_lettering
+URL:  https://raw.githubusercontent.com/mihnor/firjan_previa/main/BOARDS/BOARD_12_CASA_FIRJAN/BOARD_12_casa_firjan_lettering.png
+
